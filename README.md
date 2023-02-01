@@ -33,7 +33,7 @@ Emotions Sensor Data Set Contain Top 23 730 English Words Classified Statistical
 ## Dataset
 Here we have 5517 data as our data set with two column. Column 1 contains the text and column 2 contains the emotion of the text as label. Here our target is to classify a sample text among the 6 emotion classes we used as labels such as Joy, anger, sadness, love, fear and surprise. Here using the CountVectorizer, TfidfVectorizer , we convert the text data into numerical data. After converting to numerical data we run 8 classification algorithm by fitting the data and creating models and checking all their accuracy.
 ## 
-![](https://via.placeholder.com/234x300?text=App+Screenshot+Here)           |  ![](https://via.placeholder.com/234x300?text=App+Screenshot+Here)
+![](https://github.com/diab3tes/EDM/blob/main/Pictures/Dataset.png/234x300?text=App+Screenshot+Here)           |  ![](https://github.com/diab3tes/EDM/blob/main/Pictures/edm_data2.png/234x300?text=App+Screenshot+Here)
 :-------------------------:|:-------------------------:
 
 
@@ -52,5 +52,5 @@ Here we have 5517 data as our data set with two column. Column 1 contains the te
 
 ## Result & Confusion Matrix
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/diab3tes/EDM/blob/main/Pictures/edm_result.png/468x300?text=App+Screenshot+Here)
 
